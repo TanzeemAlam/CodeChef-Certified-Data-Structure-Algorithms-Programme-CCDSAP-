@@ -1,1 +1,3 @@
-kkk
+To understand better, check the blog:-
+
+https://medium.com/@tanzeemalam789/algorithm-complexity-and-big-o-notation-f815fd06869cq
