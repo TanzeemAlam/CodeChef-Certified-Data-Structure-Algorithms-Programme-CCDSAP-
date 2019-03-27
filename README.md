@@ -16,5 +16,5 @@ The syllabus for each level is mentioned below:
 ---
 
 ## Asymptotic Notations Big-O
-* [Time Complexity and Big-O notation](https://medium.com/@tanzeemalam789/algorithm-complexity-and-big-o-notation-f815fd06869cq)
+* [Time Complexity and Big-O notation](https://medium.com/@tanzeemalam789/algorithm-complexity-and-big-o-notation-f815fd06869c)
 	
