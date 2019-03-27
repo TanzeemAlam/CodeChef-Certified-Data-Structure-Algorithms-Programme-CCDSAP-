@@ -22,3 +22,4 @@ The syllabus for each level is mentioned below:
 * [LECANDY](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/LECANDY)
 * [CNOTE](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/CNOTE)
 * [SALARY](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/SALARY)
+* [RAINBOWA](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/RAINBOWA)
