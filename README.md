@@ -13,3 +13,8 @@ The syllabus for each level is mentioned below:
 9.  Naive string searching
 10. O(n logn) Sorting
 11. Binary Searching
+---
+
+## Asymptotic Notations Big-O
+* [Time Complexity and Big-O notation](https://medium.com/@tanzeemalam789/algorithm-complexity-and-big-o-notation-f815fd06869cq)
+	
