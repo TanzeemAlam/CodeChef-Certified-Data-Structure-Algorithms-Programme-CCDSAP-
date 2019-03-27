@@ -15,6 +15,9 @@ The syllabus for each level is mentioned below:
 11. Binary Searching
 ---
 
-## Asymptotic Notations Big-O
+### Asymptotic Notations Big-O
 * [Time Complexity and Big-O notation](https://medium.com/@tanzeemalam789/algorithm-complexity-and-big-o-notation-f815fd06869c)
-	
+
+### Arrays
+* [LECANDY](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/LECANDY)
+* [CNOTE](https://github.com/TanzeemAlam/CodeChef-Certified-Data-Structure-Algorithms-Programme-CCDSAP-/blob/master/Arrays/CNOTE)
